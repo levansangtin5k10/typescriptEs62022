@@ -2,7 +2,8 @@
 let number;
 const number1 = 10;
 const obj = {
-    name: "Tedu"
+    name: "TEDU"
 };
+obj.name = "Tedu 1 ";
 console.log(obj.name);
 //# sourceMappingURL=lesson6.js.map

@@ -1,3 +1,12 @@
-var names="Tedu";
-var messages=`welcome${names}to ES6 and TypeScript`;
-console.log(messages);
+let names="TEDU";
+
+let message=`
+
+
+
+
+Welcome ${names}to ES6 an TypeScript
+`;
+
+
+console.log(message);

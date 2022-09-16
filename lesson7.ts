@@ -3,16 +3,26 @@ let isDone:boolean=false;
 console.log(isDone);
 
 
-let decimalee:number=6;
-console.log(decimalee);
-
-let color:string="blue";
-console.log(color);
 
 
-let fullname:string="Le van Sang";
+let decimal:number =6;
+console.log(decimal)
 
-let age:number=10;
-let Name:string=`Hello,hello ${fullname}  age=${age+1}`;
 
-console.log(Name);
+let fullname:string="Le Van Sang";
+let age:number=33;
+let sentence:string=`
+Hello , my name ${fullname} Age:${age+1}
+`
+
+console.log(sentence)
+
+
+
+
+enum Color {red,green,blue};
+
+
+let C:Color=Color.blue;
+
+console.log(C);

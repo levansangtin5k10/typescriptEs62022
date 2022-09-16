@@ -1,8 +1,8 @@
 "use strict";
-var caculatorSalary = function () {
+function Calulato() {
     return 1000000;
-};
-let SalaryArow = (bonus) => 2000000 + bonus;
-console.log(caculatorSalary());
-console.log(SalaryArow(1));
+}
+let CaluatoArow = (bonus) => 2000000 + bonus;
+console.log(Calulato());
+console.log(CaluatoArow(1));
 //# sourceMappingURL=lesson8.js.map

@@ -1,10 +1,9 @@
 "use strict";
 var employee = {
-    id: 1,
-    greet: function () {
-        var selt = this;
-        console.log(this.id);
+    id: 19,
+    greeet: function () {
+        setTimeout(() => console.log(this.id), 1000);
     }
 };
-employee.greet();
+employee.greeet();
 //# sourceMappingURL=lesson9.js.map

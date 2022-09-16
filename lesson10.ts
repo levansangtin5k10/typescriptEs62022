@@ -1,10 +1,6 @@
-var getbonus=function(value=10,tax=40){
+var getBonus = function(value = 10,tax=20){
 
-console.log(value+tax);
-
+    console.log(value+tax);
 }
 
-
-
-
-getbonus(50,undefined);
+getBonus(undefined,40);

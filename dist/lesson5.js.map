@@ -1,1 +1,1 @@
-{"version":3,"file":"lesson5.js","sourceRoot":"","sources":["../lesson5.ts"],"names":[],"mappings":";AAAA,KAAI,IAAI,CAAC,GAAC,CAAC,EAAC,CAAC,IAAE,CAAC,EAAC,CAAC,EAAE,EACpB;IACI,UAAU,CAAC;QACP,OAAO,CAAC,GAAG,CAAC,CAAC,CAAC,CAAC;IACnB,CAAC,EAAE,IAAI,CAAC,CAAC;CACZ"}
+{"version":3,"file":"lesson5.js","sourceRoot":"","sources":["../lesson5.ts"],"names":[],"mappings":";AAAA,KAAI,IAAI,CAAC,GAAC,CAAC,EAAE,CAAC,IAAE,CAAC,EAAC,CAAC,EAAE,EAAC;IAElB,UAAU,CAAC;QAEf,OAAO,CAAC,GAAG,CAAC,CAAC,CAAC,CAAA;IACV,CAAC,EAAC,IAAI,CAAC,CAAC;CACX"}

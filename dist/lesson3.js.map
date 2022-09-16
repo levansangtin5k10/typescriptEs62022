@@ -1,1 +1,1 @@
-{"version":3,"file":"lesson3.js","sourceRoot":"","sources":["../lesson3.ts"],"names":[],"mappings":";AAAA,mCAAmC;AACnC,iBAAiB;AACjB,6BAA6B;AAC7B,mCAAmC;AACnC,QAAQ;AACR,YAAY;AAEZ,6BAA6B;AAC7B,QAAQ;AACR,0BAA0B;AAC1B,IAAI;AAEJ,4BAA4B"}
+{"version":3,"file":"lesson3.js","sourceRoot":"","sources":["../lesson3.ts"],"names":[],"mappings":";AAAA,SAAS,WAAW,CAAC,IAAW;IAC5B,IAAG,IAAI,IAAE,UAAU,EAAC;QACf,KAAK,GAAC,gBAAgB,CAAC;KAC3B;SACG;QAEC,KAAK,GAAC,UAAU,CAAC;KAErB;IACD,IAAI,KAAK,CAAC;IAEV,OAAO,CAAC,GAAG,CAAC,KAAK,CAAC,CAAC;AACvB,CAAC;AAED,WAAW,CAAC,UAAU,CAAC,CAAC"}

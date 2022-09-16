@@ -1,13 +1,13 @@
 "use strict";
-// function greetPerson( var name){
-//     var greet;
-//     if(name==="Chandler"){
-//          greet="Hello Chandler";
-//     }
-//     else{
-//          greet="Hi there";
-//     }
-//     console.log(greet);
-// }
-// greetPerson("Chandlers");
+function greetPerson(name) {
+    if (name == "Chandler") {
+        greet = "Hello Chandler";
+    }
+    else {
+        greet = "Hi There";
+    }
+    var greet;
+    console.log(greet);
+}
+greetPerson("Chandler");
 //# sourceMappingURL=lesson3.js.map

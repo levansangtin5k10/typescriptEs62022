@@ -1,11 +1,11 @@
 "use strict";
 let emp = {
-    fname: "Technogy",
-    lname: "Education",
-    level: 2
+    fname: "Le van Sang",
+    level: 33,
+    lname: "Van Giang"
 };
-let { fname, lname, level } = emp;
+let { fname, level, lname } = emp;
 console.log(fname);
-console.log(lname);
 console.log(level);
+console.log(lname);
 //# sourceMappingURL=lesson14.js.map

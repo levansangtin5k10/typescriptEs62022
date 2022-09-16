@@ -1,12 +1,21 @@
 "use strict";
 let isDone = false;
 console.log(isDone);
-let decimalee = 6;
-console.log(decimalee);
-let color = "blue";
-console.log(color);
-let fullname = "Le van Sang";
-let age = 10;
-let Name = `Hello,hello ${fullname}  age=${age + 1}`;
-console.log(Name);
+let decimal = 6;
+console.log(decimal);
+let fullname = "Le Van Sang";
+let age = 33;
+let sentence = `
+Hello , my name ${fullname} Age:${age + 1}
+`;
+console.log(sentence);
+var Color;
+(function (Color) {
+    Color[Color["red"] = 0] = "red";
+    Color[Color["green"] = 1] = "green";
+    Color[Color["blue"] = 2] = "blue";
+})(Color || (Color = {}));
+;
+let C = Color.blue;
+console.log(C);
 //# sourceMappingURL=lesson7.js.map

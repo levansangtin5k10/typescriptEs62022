@@ -1,15 +1,15 @@
-// function greetPerson( var name){
-//     var greet;
-//     if(name==="Chandler"){
-//          greet="Hello Chandler";
-//     }
-//     else{
+function greetPerson(name:string){
+    if(name=="Chandler"){
+         greet="Hello Chandler";
+    }
+    else{
 
-//          greet="Hi there";
-//     }
-//     console.log(greet);
-// }
+         greet="Hi There";
 
-// greetPerson("Chandlers");
+    }
+    var greet;
 
+    console.log(greet);
+}
 
+greetPerson("Chandler");
